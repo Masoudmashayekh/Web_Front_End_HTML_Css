@@ -84,15 +84,16 @@ header nav a:hover {
 }
 
 .shorts {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 .shorts .short {
   display: flex;
   box-shadow: 0px 0px 10px #444;
   margin: 15px;
   border-radius: 20px;
+  transition-duration: 0.5s;
 }
 
 .shorts .short img {
@@ -102,7 +103,10 @@ header nav a:hover {
   transition-duration: 0.5s;
 }
 
+.shorts .short img:hover {
+  border-bottom-right-radius: 0px;
+}
 
-.shorts .short img:hover{
-    border-bottom-right-radius: 0px;
+.shorts .short:hover {
+  border-radius: 0px;
 }

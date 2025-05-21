@@ -99,6 +99,7 @@ header nav a:hover {
 .shorts .short img {
   width: 100px;
   height: 100px;
+  margin-right: 10px;
   border-bottom-right-radius: 150px;
   transition-duration: 0.5s;
 }

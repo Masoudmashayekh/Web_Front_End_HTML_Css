@@ -21,7 +21,9 @@
   border-radius: 10px;
   padding: 20px;
 }
-
+.card .it {
+  display: none;
+}
 .card:hover {
   transform: rotateY(180deg);
   opacity: 50%;
@@ -29,6 +31,14 @@
   transition-delay: 0.3s;
 }
 
+.card:hover .it{
+    display: block;
+    transform: rotateY(180deg);
+}
+
+.card:hover .en{
+    display: none;
+}
 .row {
   display: flex;
 }

@@ -1,3 +1,25 @@
+body {
+  margin: 0px;
+}
+
+header nav {
+  box-shadow: 0px 0px 10px #444;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+header nav a {
+  text-decoration: none;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #345;
+  margin: 0px 20px;
+  font-size: 15px;
+}
+header nav a:hover {
+  text-decoration: underline;
+  font-size:medium;
+}
 .card img {
   width: 400px;
   border-radius: 100px;
@@ -28,16 +50,16 @@
   transform: rotateY(180deg);
   opacity: 50%;
   transition-duration: 1s;
-  transition-delay: 0.3s;
+  transition-delay: 0.1s;
 }
 
-.card:hover .it{
-    display: block;
-    transform: rotateY(180deg);
+.card:hover .it {
+  display: block;
+  transform: rotateY(180deg);
 }
 
-.card:hover .en{
-    display: none;
+.card:hover .en {
+  display: none;
 }
 .row {
   display: flex;

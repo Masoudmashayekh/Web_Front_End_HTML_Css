@@ -23,7 +23,6 @@ header nav a:hover {
 
 .feature {
   display: flex;
-  margin-bottom: 20px;
 }
 .feature img {
   width: 500px;
@@ -80,4 +79,6 @@ header nav a:hover {
 }
 .row {
   display: flex;
+  flex-wrap: wrap;
+  margin: 20px 0px;
 }

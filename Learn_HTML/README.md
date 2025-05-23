@@ -1,35 +1,35 @@
 # HTML
 
-- Heading Tags [GitHub page](/Learn_HTML/index.html)
+## Heading Tags [GitHub page](/Learn_HTML/index.html)
 
-- Paragraph Tag
+## Paragraph Tag
 
-- Formatting Tags
+## Formatting Tags
 
-- Commenting
+## Commenting
 
-- Link Tag
+## Link Tag
 
-- Bookmark Link
+## Bookmark Link
 
-- img Tag
+## img Tag
 
-- picture Tag
+## picture Tag
 
-- Table
+## Table
 
-- Lists
+## Lists
 
-- Block and Inline
+## Block and Inline
 
-- Containers
+## Containers
 
-- Content Description Tags
+## Content Description Tags
 
-- video Tag
+## video Tag
 
-- iframe Tag
+## iframe Tag
 
-- Form
+## Form
 
-- View Source and Inspect
+## View Source and Inspect

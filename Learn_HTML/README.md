@@ -18,9 +18,23 @@
 - pre tag
 - hr tag
 
-## Formatting Tags
+## Formatting Tags:
 
-## Commenting
+- [GitHub link](/Learn_HTML/formatting.html)
+- b tag
+- strong tag , emphasize for search engine
+- i tag
+- em tag , emphasize for search engine
+- big tag
+- small tag
+- mark tag
+- del tag
+- sub tag
+- sup tag
+
+## Commenting:
+- [GitHub link](/Learn_HTML/commenting.html)
+- <!-- ........   -->
 
 ## Link Tag
 

@@ -77,7 +77,10 @@
 - type: 1, a, A, i, I
 - dl => dt => dd : Description list
 
-## Block and Inline
+## Block and Inline:
+
+- Block-level elements start on a new line and take up the full width available (by default): div,p,h1 to h6,section,ul
+- Inline elements do not start on a new line. They appear within the flow of surrounding text: span, strong, img, a, em
 
 ## Containers
 

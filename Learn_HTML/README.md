@@ -1,10 +1,22 @@
 # HTML
 
+## Basic Structure:
+
+- [GitHub link](/Learn_HTML/index.html)
+- ! + Tab
+
 ## Heading Tags:
 
-- [GitHub page](/Learn_HTML/index.html)
+- [GitHub link](/Learn_HTML/heading.html)
 
-## Paragraph Tag
+- h1, h2, h3, h4, h5, h6
+
+## Paragraph Tag:
+
+- [GitHub link](/Learn_HTML/paragraph.html)
+- p tag
+- pre tag
+- hr tag
 
 ## Formatting Tags
 

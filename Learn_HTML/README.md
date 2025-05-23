@@ -100,10 +100,19 @@
 ## video Tag:
 
 - [GitHub link](/Learn_HTML/video.html)
+- video tag
+
+## iframe Tag:
+
 - iframe tag
 
-## iframe Tag
+## Form:
 
-## Form
+- [GitHub link](/Learn_HTML/form.html)
+- form tag
+- action & method are for server and back-end
+- input
+- radio , should have same name
+- select, option , value and name are for server and back_end
 
 ## View Source and Inspect

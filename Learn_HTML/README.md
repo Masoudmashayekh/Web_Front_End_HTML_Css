@@ -71,6 +71,12 @@
 
 ## Lists
 
+- [GitHub link](/Learn_HTML/list.html)
+- ul tag: unordered list
+- ol tag: ordered list
+- type: 1, a, A, i, I
+- dl => dt => dd : Description list
+
 ## Block and Inline
 
 ## Containers

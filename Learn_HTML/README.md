@@ -1,6 +1,6 @@
 # HTML
 
-## Heading Tags [GitHub page](/Learn_HTML/index.html)
+## Heading Tags: [GitHub page](/Learn_HTML/index.html)
 
 ## Paragraph Tag
 

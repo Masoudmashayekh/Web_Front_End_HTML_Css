@@ -33,18 +33,41 @@
 - sup tag
 
 ## Commenting:
+
 - [GitHub link](/Learn_HTML/commenting.html)
-- < !-- ........   -->
+- < !-- ........ -->
 
-## Link Tag
+## Link Tag:
 
-## Bookmark Link
+- [GitHub link](/Learn_HTML/link.html)
+- a
+- local or global for href
+- target : open new page
+- title
 
-## img Tag
+## Bookmark Link:
 
-## picture Tag
+- [GitHub link](/Learn_HTML/link_bookmark.html)
+- #price
 
-## Table
+## img Tag:
+
+- [GitHub link](/Learn_HTML/img.html)
+
+## picture Tag:
+
+- [GitHub link](/Learn_HTML/picture.html)
+
+## Table:
+
+- [GitHub link](/Learn_HTML/table.html)
+- table tag
+- tr tag: for Row
+- td tag: for Column
+- th tag
+- thead tag
+- tbody tag
+- caption tag
 
 ## Lists
 

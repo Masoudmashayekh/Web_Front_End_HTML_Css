@@ -111,8 +111,18 @@
 - [GitHub link](/Learn_HTML/form.html)
 - form tag
 - action & method are for server and back-end
-- input
+- input, required
 - radio , should have same name
-- select, option , value and name are for server and back_end
+- select, option , value and name are for server and back_end, selected for defult selection
+- multiple
+- checkbox
+- submit
+- email
+- password
+- file
+- number
+- date
+- color
+- range
 
 ## View Source and Inspect

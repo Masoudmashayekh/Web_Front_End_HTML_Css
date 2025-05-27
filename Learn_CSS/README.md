@@ -11,6 +11,7 @@
 - Universal Selector (\*)
 - Grouping Selector - h1,p,span
 - div p : selector selector
+- a => cursor:pointer
 
 ## Styling Text
 
@@ -31,8 +32,10 @@
 
 ## Browser Default Styles
 
-
 ## Commenting
+
+- Start: "/_" End:"_/"
+- Command + "/"
 
 ## Colors
 

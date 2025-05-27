@@ -55,7 +55,16 @@
 - border-radius: 50%; makes image circule
 
 ## Box Model
+
 ![alt text](image/box_model.png)
+
+- Padding
+- Margin
+- Clockwise
+- top right bottom left: 10px 15px 20px 5px
+- top and bottom right and left: 10px 15px
+- border-top 
+-border-top-left-radius
 
 ## Text Align
 

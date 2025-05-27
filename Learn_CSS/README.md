@@ -4,6 +4,7 @@
 
 ## Selectors
 
+- [github](/Learn_CSS/index.html)
 - Element(tag) Selector
 - ID Selector #ID - unique
 - Class Selector .class - not unique
@@ -15,6 +16,7 @@
 
 ## Styling Text
 
+- [github](/Learn_CSS/styling_text.htmlLearn_CSS/)
 - font-size: 40px;
 - font-weight: normal;
 - direction: ltr;
@@ -27,6 +29,7 @@
 
 ## Adding Fonts
 
+- [github](/Learn_CSS/add_font.html)
 - add font
 - link: https://fonts.google.com/
 
@@ -39,6 +42,7 @@
 
 ## Colors
 
+- [github](/Learn_CSS/colors.html)
 - Pre defined colors
 - link: https://flatuicolors.com/
 
@@ -46,6 +50,7 @@
 
 ![alt text](image/border.png)
 
+- [github](/Learn_CSS/border.html)
 - border: 5px solid blue;
 - outline: 5px solid red;
 - border-radius: 10px;
@@ -58,13 +63,14 @@
 
 ![alt text](image/box_model.png)
 
+- [github](/Learn_CSS/box_model.html)
 - Padding
 - Margin
 - Clockwise
 - top right bottom left: 10px 15px 20px 5px
 - top and bottom right and left: 10px 15px
-- border-top 
--border-top-left-radius
+- border-top
+  -border-top-left-radius
 
 ## Text Align
 

@@ -39,6 +39,9 @@
 
 ## Colors
 
+- Pre defined colors
+- link: https://flatuicolors.com/
+
 ## Border & Outline
 
 ## Box Model

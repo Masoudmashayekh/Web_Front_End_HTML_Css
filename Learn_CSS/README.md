@@ -55,7 +55,7 @@
 - border-radius: 50%; makes image circule
 
 ## Box Model
-![alt text](image/border.png)
+![alt text](image/box_model.png)
 
 ## Text Align
 

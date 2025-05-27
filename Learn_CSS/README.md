@@ -26,7 +26,11 @@
 
 ## Adding Fonts
 
+- add font
+- link: https://fonts.google.com/
+
 ## Browser Default Styles
+
 
 ## Commenting
 

@@ -1,6 +1,6 @@
 # CSS
 
-![alt text](image.png)
+![alt text](image/image.png)
 
 ## Selectors
 
@@ -43,6 +43,14 @@
 - link: https://flatuicolors.com/
 
 ## Border & Outline
+
+- border: 5px solid blue;
+- outline: 5px solid red;
+- border-radius: 10px;
+- border: 5px dotted;
+- border: 5px dashed;
+- border-radius: 30px;
+- border-radius: 50%; makes image circule
 
 ## Box Model
 

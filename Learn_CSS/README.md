@@ -43,6 +43,7 @@
 - link: https://flatuicolors.com/
 
 ## Border & Outline
+![alt text](image/border.png)
 
 - border: 5px solid blue;
 - outline: 5px solid red;

@@ -43,6 +43,7 @@
 - link: https://flatuicolors.com/
 
 ## Border & Outline
+
 ![alt text](image/border.png)
 
 - border: 5px solid blue;
@@ -54,6 +55,7 @@
 - border-radius: 50%; makes image circule
 
 ## Box Model
+![alt text](image/border.png)
 
 ## Text Align
 

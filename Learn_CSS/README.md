@@ -4,7 +4,11 @@
 
 ## Selectors
 
-- tag in elements
+- Element(tag) Selector
+- ID Selector #ID - unique
+- Class Selector .class - not unique
+- tag + ID or Class
+
 
 ## Styling Text
 

@@ -1,19 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Display</title>
     <style>
-        a{
-            background-color: rgb(241, 131, 131);
-            color: black;
-            text-decoration: none;
-            display: inline;
-        }
+      #a1 {
+        background-color: rgb(241, 131, 131);
+        color: black;
+        text-decoration: none;
+        display: block;
+      }
+      #a2 {
+        background-color: rgb(241, 131, 131);
+        color: black;
+        text-decoration: none;
+        display: block;
+      }
+      h1 {
+        background-color: bisque;
+        display: inline;
+      }
+      #s1 {
+        background-color: bisque;
+        border: blue solid 1px;
+        display: inline;
+        width: 100px;
+        height: 100px;
+      }
+      #s2 {
+        background-color: bisque;
+        border: blue solid 1px;
+        display: inline-block;
+        width: 200px;
+        text-align: center;
+      }
     </style>
-</head>
-<body>
-    <a href="">Click here</a>
-</body>
+  </head>
+  <body>
+    <a id="a1" href="">Click here</a>
+    <a id="a2" href="">Lorem, ipsum.</a>
+    <h1>Lorem, ipsum.</h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.<span id="s1"
+        >lasafsaf</span
+      >
+      At suscipit perspiciatis eveniet aspernatur est eum iure corrupti
+      veritatis autem ipsa?
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.<span id="s2"
+          >lasafsaf</span
+        >
+        At suscipit perspiciatis eveniet aspernatur est eum iure corrupti
+        veritatis autem ipsa?
+      </p>
+  </body>
 </html>

@@ -79,6 +79,9 @@
 ## Display
 ![alt text](/Learn_CSS/image/display.avif)
 - [github](/Learn_CSS/display.html)
+- display: inline-block
+- inline
+- block
 
 
 ## Centering an Image

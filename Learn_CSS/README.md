@@ -158,6 +158,12 @@
 - div p
 
 ## Pseudo-Classes
+- [github](/Learn_CSS/pseudo-class.html)
+- :hover
+- :first-child
+- :last-child
+- :nth-child(even)
+- myinput:focus
 
 ## Pseudo-Elements
 

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pseudo Class</title>
+    <style>
+      #d1 {
+        background-color: aquamarine;
+        padding: 30px;
+        text-align: center;
+        font-size: 40px;
+      }
+      #d1:hover {
+        background-color: black;
+        color: aliceblue;
+      }
+      #d2 h1 {
+        display: none;
+        background-color: yellow;
+        color: black;
+        padding: 30px;
+      }
+      #d2:hover h1 {
+        display: block;
+      }
+      p:first-child {
+        color: red;
+      }
+      p:last-child {
+        color: blue;
+      }
+      p:nth-child(even) {
+        font-size: xx-large;
+      }
+      #myinput:focus {
+        background-color: antiquewhite;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Lorem, ipsum.</p>
+    <p>Lorem, ipsum.</p>
+    <p>Lorem, ipsum.</p>
+    <p>Lorem, ipsum.</p>
+    <p>Lorem, ipsum.</p>
+    <p>Lorem, ipsum.</p>
+    
+    <div id="d1">Lorem ipsum dolor sit amet.</div>
+    <div id="d2">
+      Lorem ipsum dolor sit amet.
+      <h1>Lorem, ipsum.</h1>
+    </div>
+    <p>Lorem, ipsum.</p>
+    <p>Lorem, ipsum.</p>
+    <p>Lorem, ipsum.</p>
+    <input id="myinput" type="text" />
+  </body>
+</html>

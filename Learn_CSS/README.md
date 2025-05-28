@@ -149,6 +149,14 @@
 
 ## Combinators
 
+- [github](/Learn_CSS/combinator.html)
+
+- Descendant combinator (space)
+- Child combinator (>)
+- Next sibling combinator (+)
+- Subsequent-sibling combinator (~)
+- div p
+
 ## Pseudo-Classes
 
 ## Pseudo-Elements

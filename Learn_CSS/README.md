@@ -95,6 +95,11 @@
 
 ## Icon
 
+![alt text](/Learn_CSS/image/icon.png)
+
+- [github](/Learn_CSS/icon.html)
+- link:https://fontawesome.com/
+
 ## Styling Links
 
 ## Styling Lists

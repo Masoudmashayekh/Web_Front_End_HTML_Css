@@ -158,6 +158,7 @@
 - div p
 
 ## Pseudo-Classes
+
 - [github](/Learn_CSS/pseudo-class.html)
 - :hover
 - :first-child
@@ -166,6 +167,13 @@
 - myinput:focus
 
 ## Pseudo-Elements
+
+- [github](/Learn_CSS/pseudo-elements.html)
+- ::first-letter
+- ::first-line
+- ::before
+- ::after
+- ::selection
 
 ## Styling Forms
 

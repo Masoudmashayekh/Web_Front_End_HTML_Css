@@ -108,8 +108,12 @@
 - a:link
 - a:visited
 
-
 ## Styling Lists
+
+- [github](/Learn_CSS/list-styling.html)
+- list-style-type: upper-roman;
+- ul il
+- ol il
 
 ## Styling Tables
 

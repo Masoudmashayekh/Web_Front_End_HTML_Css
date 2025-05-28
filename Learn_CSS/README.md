@@ -140,6 +140,11 @@
 
 ## Overflow
 
+- [github](/Learn_CSS/over-flow.html)
+- overflow: scroll;
+- overflow: hidden;
+- overflow: auto;
+
 ## Float
 
 ## Combinators

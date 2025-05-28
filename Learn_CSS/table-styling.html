@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Table Style</title>
+    <style>
+      #t1,
+      #t1 td,
+      #t1 th {
+        border: black solid 1px;
+        text-align: center;
+      }
+      #t1 {
+        border-collapse: collapse;
+        width: 500px;
+        margin: 20px 20px;
+      }
+      #t1 th,
+      #t1 td {
+        padding: 5px;
+      }
+
+      #t2,
+      #t2 td,
+      #t2 th {
+        border-bottom: black solid 1px;
+        text-align: center;
+      }
+      #t2 {
+        border-collapse: collapse;
+        width: 500px;
+        margin: 20px 20px;
+      }
+      #t2 th,
+      #t2 td {
+        padding: 5px;
+      }
+      #t2 th {
+        background-color: aqua;
+      }
+      #t2 tbody tr:nth-child(even) {
+        background-color: blanchedalmond;
+      }
+      #t2 tbody tr:hover {
+        background-color: rgb(100, 90, 74);
+      }
+    </style>
+  </head>
+  <body>
+    <table id="t1">
+      <thead>
+        <tr>
+          <th>First name</th>
+          <th>Last name</th>
+          <th>Age</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Din</td>
+          <td>Winchester</td>
+          <td>32</td>
+        </tr>
+        <tr>
+          <td>Sam</td>
+          <td>Winchester</td>
+          <td>25</td>
+        </tr>
+        <tr>
+          <td>Din</td>
+          <td>Winchester</td>
+          <td>32</td>
+        </tr>
+        <tr>
+          <td>Sam</td>
+          <td>Winchester</td>
+          <td>25</td>
+        </tr>
+      </tbody>
+    </table>
+   <div style="overflow-x: scroll;">
+    <table id="t2">
+        <thead>
+          <tr>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Age</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Din</td>
+            <td>Winchester</td>
+            <td>32</td>
+          </tr>
+          <tr>
+            <td>Sam</td>
+            <td>Winchester</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>Din</td>
+            <td>Winchester</td>
+            <td>32</td>
+          </tr>
+          <tr>
+            <td>Sam</td>
+            <td>Winchester</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>Din</td>
+            <td>Winchester</td>
+            <td>32</td>
+          </tr>
+          <tr>
+            <td>Sam</td>
+            <td>Winchester</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>Din</td>
+            <td>Winchester</td>
+            <td>32</td>
+          </tr>
+          <tr>
+            <td>Sam</td>
+            <td>Winchester</td>
+            <td>25</td>
+          </tr>
+        </tbody>
+      </table>
+   </div>
+  </body>
+</html>

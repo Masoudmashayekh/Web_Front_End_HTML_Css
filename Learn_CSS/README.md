@@ -117,7 +117,19 @@
 
 ## Styling Tables
 
+- [github](/Learn_CSS/table-styling.html)
+- border-collapse: collapse;
+- t2 tbody tr:nth-child(even)
+- div style="overflow-x: scrol
+
 ## Max-Width
+
+- [github](/Learn_CSS/max-width.html)
+- min-height
+- max-height
+- min-width
+- max-width
+- max-width: fit-content;
 
 ## Position
 

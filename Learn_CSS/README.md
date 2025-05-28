@@ -73,10 +73,12 @@
   -border-top-left-radius
 
 ## Text Align
--[github](/Learn_CSS/text-align.html)
+- [github](/Learn_CSS/text-align.html)
 - text-align: center;
 
 ## Display
+![alt text](/Learn_CSS/image/display.avif)
+- [github](/Learn_CSS/display.html)
 
 
 ## Centering an Image

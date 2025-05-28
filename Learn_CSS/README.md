@@ -73,18 +73,25 @@
   -border-top-left-radius
 
 ## Text Align
+
 - [github](/Learn_CSS/text-align.html)
 - text-align: center;
 
 ## Display
+
 ![alt text](/Learn_CSS/image/display.avif)
+
 - [github](/Learn_CSS/display.html)
 - display: inline-block
 - inline
 - block
 
-
 ## Centering an Image
+
+- [github](/Learn_CSS/centering-image.html)
+- div
+- display: block;
+- margin: 0px auto;
 
 ## Icon
 
